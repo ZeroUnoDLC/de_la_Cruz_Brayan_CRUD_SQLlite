@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_autores"
+        android:icon="@android:drawable/ic_menu_myplaces"
+        android:title="CRUD Autor" />
+    <item
+        android:id="@+id/action_libros"
+        android:icon="@android:drawable/ic_menu_agenda"
+        android:title="CRUD Libros" />
+</menu>
